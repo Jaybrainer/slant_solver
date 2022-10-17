@@ -1,0 +1,9 @@
+
+.vscode/settings.json
+__pycache__/answer.cpython-310.pyc
+__pycache__/functions.cpython-310.pyc
+__pycache__/answer_util.cpython-310.pyc
+__pycache__/solver.cpython-310.pyc
+__pycache__/solver_util.cpython-310.pyc
+__pycache__/task.cpython-310.pyc
+__pycache__/task_util.cpython-310.pyc
